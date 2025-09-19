@@ -6,7 +6,7 @@ export const LinksPages = () => {
       className="fixed top-1/2 right-0 -translate-y-1/2 z-20 flex flex-col bg-blue-600/90 dark:bg-blue-700/90 border-l-2 border-blue-500 rounded-l-md shadow-lg overflow-hidden"
     >
       <a
-        href="https://github.com/jaisemberg2022/Rick_and_Morty_App_React.git"
+        href="https://github.com/jaisemberg2022/CRUD-App-react.git"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="GitHub"
