@@ -32,7 +32,6 @@ Este proyecto utiliza los siguientes paquetes NuGet clave para la configuración
   ````
 📥 **Instalación y Configuración**:
 1. Clonar el repositorio
-https://github.com/jaisemberg2022/prueba-application-web-MVC-bookradar-app.git
 cd tu-repo
 2. Instalar dependencias
 npm install 
